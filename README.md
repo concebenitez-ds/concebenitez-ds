@@ -40,7 +40,8 @@ I worked as a Data Analytics Intern at Atlas FC, supporting the professional fir
 * Football Analytics
 * Scouting & Performance Analysis
 
-## Connect with me
+##  - Connect with me
 
-* LinkedIn: www.linkedin.com/in/maría-concepción-benítez-valencia-478438368
-* Email: mconce.btz@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Concepción_Benítez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-concepción-benítez-valencia-478438368)
+[![Email](https://img.shields.io/badge/Email-mconce.btz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mconce.btz@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40conce.btz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/conce.btz/)
