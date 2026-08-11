@@ -17,20 +17,19 @@ I worked as a Data Analytics Intern at Atlas FC, supporting the professional fir
 
 ##  - Tools & Technologies
 
-**Programming & Data**
+### Programming & Data
 
-* Python
-* R
-* SQL
-* Machine Learning
-* Advanced Excel
-* Power BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Football Analytics Platforms**
+### Football Analytics
 
-* Driblab
-* Wyscout
-* GolStats
+![Driblab](https://img.shields.io/badge/Driblab-Football%20Analytics-blue?style=for-the-badge)
+![Wyscout](https://img.shields.io/badge/Wyscout-Scouting-red?style=for-the-badge)
+![GolStats](https://img.shields.io/badge/GolStats-Football%20Data-green?style=for-the-badge)
 
 ##  - Areas of Interest
 
