@@ -6,7 +6,7 @@ I'm a graduate in Actuarial Science and Data Science with experience in professi
 
 I worked as a Data Analytics Intern at Atlas FC, supporting the professional first team through data analysis, performance evaluation, scouting and football-related analytics.
 
-##  - Sports Analytics Experience
+##   Sports Analytics Experience
 
 * Data analysis for professional football
 * Player performance evaluation
@@ -15,7 +15,7 @@ I worked as a Data Analytics Intern at Atlas FC, supporting the professional fir
 * Performance metrics analysis
 * Support for technical and sporting decision-making
 
-##  - Tools & Technologies
+##   Tools & Technologies
 
 ### Programming & Data
 
@@ -31,7 +31,7 @@ I worked as a Data Analytics Intern at Atlas FC, supporting the professional fir
 ![Wyscout](https://img.shields.io/badge/Wyscout-Scouting-red?style=for-the-badge)
 ![GolStats](https://img.shields.io/badge/GolStats-Football%20Data-green?style=for-the-badge)
 
-##  - Areas of Interest
+##   Areas of Interest
 
 * Data Analytics
 * Data Science
@@ -40,7 +40,7 @@ I worked as a Data Analytics Intern at Atlas FC, supporting the professional fir
 * Football Analytics
 * Scouting & Performance Analysis
 
-##  - Connect with me
+##   Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Concepción_Benítez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-concepción-benítez-valencia-478438368)
 [![Email](https://img.shields.io/badge/Email-mconce.btz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mconce.btz@gmail.com)
